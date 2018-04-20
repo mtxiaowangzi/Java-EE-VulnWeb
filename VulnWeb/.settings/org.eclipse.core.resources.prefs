@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/jsp/register.jsp=UTF-8
+encoding//WebContent/downloadfile.jsp=UTF-8
+encoding//src/com/eveino/web/controller/DownloadServlet.java=UTF-8
